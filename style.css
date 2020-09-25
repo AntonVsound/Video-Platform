@@ -1,0 +1,32 @@
+html, body{
+
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.background-img{ 
+  background-image: url(media/pexels-monica-silvestre-713149.jpg) ;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  
+ }
+
+.nav-top{
+  width: 100%;
+  min-height:10vh;
+  background-color: red;
+}
+
+.my-row{
+   
+  height:100vh;
+  border: 5px solid green;
+   
+}
+ 
+ 
+ 
